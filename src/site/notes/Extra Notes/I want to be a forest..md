@@ -8,7 +8,7 @@
 
 ```poetry
 Standing together
-near my mother's house,
+near the farmhouse,
 knee-deep in snow,
 
 Taking pictures that
@@ -19,22 +19,21 @@ In the background, trees
 my Grandfather planted
 forty years ago
 
-strain through my lens.
+Strain through my lens.
 I complain to you
 about my camera,
 
 “Everything's all wrong.”
-I make a film about a man
+I am making a film about a man
 walking through the trees,
 
 panning and zooming in
 on a girl, on the Xs that mark
 where the loggers will clear.
 
-Streets crisscross paved inclines
-in the city. Shadows
-from a chain-link fence mark
-the sidewalk by a school.
+Streets crisscross the city. 
+Shadows from a chain-link fence 
+mark the sidewalk by a school.
 
 In the pictures I have, you stand
 amid a wood of blurred Xs;
@@ -44,7 +43,7 @@ I try to imagine the straight rows
 reduced to stumps. Later,
 the new growth coming in.
 
-Someday all plantations will be extinct.
+Someday all plantations will be gone.
 Someday all will be forest. Again
 I try to focus, but it's wrong.
 
