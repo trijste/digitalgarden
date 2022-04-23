@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extra-notes/i-want-to-be-a-forest/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extra-notes/i-want-to-be-a-forest/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 #Poetry
