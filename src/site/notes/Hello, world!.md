@@ -1,5 +1,8 @@
 ---
 title: Hello, world!
-tags: gardenEntry
+dg-home: true
+dg-publish: true
 ---
 Hello, world!
+
+[[I want to be a forest.]]
