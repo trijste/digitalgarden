@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"forest","permalink":"/forest/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extra-notes/i-want-to-be-a-forest/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 #Poetry
@@ -55,6 +55,3 @@ in your camera lens.
 How do I tell you I want to stand
 among trees, unmarked?
 ```
-
-
-–TRISTAN STEINER
