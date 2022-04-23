@@ -1,17 +1,21 @@
+---
+title: "/{{ page.fileSlug }}/"
+permalink: "notes/{{ page.fileSlug | slugify }}/"
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>{{ page.fileSlug }}</title>
-    {%include "components/pageheader.njk"%} 
+    {%include "components/pageheader.njk"%}
   </head>
-  <body>
-
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view">
     {%include "components/notegrowthhistory.njk"%}
 
     <div class="content">
-      <a href="/">&larr; Back to garden entry</a>
-      {{ content | link | safe}}
+      {% if dgHomeLink !== false%}
+        <a href="/">🏡 Back Home</a>
+      {% endif %}
+      {{ content | link | highlight | safe}}
     </div>
-
   </body>
 </html>
