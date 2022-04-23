@@ -4,4 +4,4 @@
 
 Hello, world!
 
-[[Extra Notes/I want to be a forest.|I want to be a forest.]]
+[[Extra Notes/I want to be a forest|I want to be a forest]]
