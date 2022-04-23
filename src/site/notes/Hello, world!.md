@@ -1,8 +1,7 @@
 ---
-title: Hello, world!
-dg-home: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/hello-world/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 Hello, world!
 
-[[I want to be a forest.]]
+[[Extra Notes/I want to be a forest.|I want to be a forest.]]
